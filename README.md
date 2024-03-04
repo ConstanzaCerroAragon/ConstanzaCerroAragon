@@ -3,6 +3,13 @@
 </p>
 
 -----
+
+<!--Dino--> 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
+</p>
+
+-----
 <!--Start Intro-->    
 <p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Fullstack+Developer" /></a></p>
 <p align="left">I am a Full Stack Developer. </p>
@@ -27,20 +34,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConstanzaCerroAragon&theme=tokyonight" alt="Constanza GitHub Streak">
 </p>
 
-
-
------
-<!--Dino--> 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
-</p>
-
 -----
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,git,vscode,linux&perline=10"  />
 </p>
+
+
 
 
 
